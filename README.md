@@ -1,4 +1,4 @@
-# super_paint
+# Super paint!
 Refaire Paint avec p5.js et Socket.io
 
 ## Consignes
